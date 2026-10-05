@@ -56,6 +56,15 @@ hierarchy and therefore should not automatically be summed.
 
 ## 2. U.S. Census Bureau Population Estimates
 
+### Official Source
+
+U.S. Census Bureau Population Estimates Program  
+Vintage 2023 — Annual Resident Population Estimates by Selected Age Groups
+and Sex: April 1, 2020 to July 1, 2023  
+Table: PEP_AGESEX
+
+https://data.census.gov/table/PEPCHARV2023.PEP_AGESEX?q=Resident+Population
+
 **Population analysis period:** 2020–2023
 
 Population denominators were derived from the U.S. Census Bureau Population

@@ -30,7 +30,11 @@ The analysis progresses through four levels:
 **Mortality Burden → Cause Patterns → Age Patterns → Population-Adjusted Rates**
 
 ---
+## Executive Dashboard
 
+![Charlotte–Mecklenburg Population Health Intelligence Executive Dashboard](dashboard/01_Executive_Dashboard.png)
+
+---
 ## Analytical Questions
 
 The project explores four primary questions:
@@ -52,6 +56,8 @@ All-cause mortality reached **7,951 deaths in 2021** before declining to
 Despite the post-2021 decline, the 2023 death count remained **11.2% above
 2019 levels**.
 
+![All-Cause Mortality Trend](dashboard/02_All_Cause_Mortality_Trend.png)
+
 ### 2. Population-adjusted analysis strengthened the evidence of improvement
 
 The crude mortality rate declined from approximately **706.0 deaths per
@@ -60,6 +66,8 @@ approximately **12.6%**.
 
 Age-specific mortality rates were also lower in 2023 than in 2020 across
 all six analytical age groups.
+
+![Age-Specific Mortality Rates](dashboard/03_Age_Specific_Mortality_Rates.png)
 
 The largest declines occurred among:
 
@@ -78,6 +86,8 @@ This became the project's most important population-health signal.
 | Mortality rate per 100K | 55.8 | 65.7 |
 
 **Change in age-specific accident mortality rate: +17.6%**
+
+![Accident Mortality Ages 25–44](dashboard/04_Accident_Mortality_Ages_25_44.png)
 
 While broader age-specific mortality declined, accident mortality among
 adults ages 25–44 increased after accounting for population growth.
